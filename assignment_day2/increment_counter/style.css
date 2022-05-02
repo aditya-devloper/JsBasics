@@ -1,0 +1,33 @@
+body{
+     background-color: slategray;
+    text-align: center;
+    padding: auto;
+}
+#a1{
+    
+
+}
+#val{
+    padding: 6px;
+    border-radius: 7px;
+    background-color: bisque;
+}
+#btn{
+    padding: 5px;
+    
+    background-color: blue;
+    border-radius: 7px;
+}
+#inc{
+    padding: 3px;
+    width: 90px;
+    background-color: brown;
+    border-radius: 4px;
+}
+
+#dec{
+    padding: 3px;
+    width: 90px;
+    background-color: brown;
+    border-radius: 4px;
+}
